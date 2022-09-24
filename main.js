@@ -31,7 +31,7 @@ function uploadBackground() {
 
 function uploadgreencar() {
 	//Define function ‘uploadgreencar’.
-	ctx.drawImage(greencar_imgTag, grenncar_x, grenncar_y, greencar_width, grenncar_height);
+	ctx.drawImage(greencar_imgTag, grenncar_x, grenncar_y, grenncar_width, grenncar_height);
 	
 }
 
